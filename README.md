@@ -2,7 +2,7 @@
 
 Sample project to test Haxe language and Heaps framework.
 
-You can test the game here: https://kiwwisk.github.io/simple-haxe-platformer/
+***--->*** You can test the game here: https://kiwwisk.github.io/simple-haxe-platformer/ ***<---***
 
 ---
 
