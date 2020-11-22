@@ -1,0 +1,5 @@
+-cp src
+-D analyzer-optimize
+-lib heaps
+-js build/hello.js
+-main Main

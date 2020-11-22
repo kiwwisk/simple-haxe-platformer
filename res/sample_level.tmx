@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="3">
+ <tileset firstgid="1" source="tiledsheet.tsx"/>
+ <layer id="4" name="Background2" width="50" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0NtRAkEURdERhAAAgQAQJAAVCYBnAPIKQEACEJTY3VUwf5fpvsD8nVW1/251dZ0kuZ8CFemRSlS+49u3eEhOf4tVpRo9UZ0agfvmlf/KYm1ZOf8tVoueqU0degncd/3fvCjd3NrSu9crvdE79egjcN93vp8l3dza0rvXgIY0ojFNAvdT5/sxrC29e33SjOa0oGXgfuV8P4a1pXevL1rThrb0HbjfOd+PYW3p3euH9nSgX/oL3B+d78ewtsxjr7xZW+axl4iIiIiIiIiIiIiIiIiIiOTnH5jRGEM=
+  </data>
+ </layer>
+ <layer id="3" name="Background1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1E0KwjAQhuEcw71u3KvbrtSFIHoD2xO06P1xCoIlTGKLmRDC+8BH6Q/0m6Zt55zrIrlKnsZJQeveT/q/Et3H2rT74L5rEOq/ytRrKW2dxxnWko1y/TZftSR2kr3k8OO6m+T+ZywdJSfJ2Tt+8fZbF/9PzImVJc/4Eeg2BLY555j7jGPdSliPFO9KTXP03lY7l2sOrUOp69F8os1h8T3keq9SqWGGUS1zAAAAAAAAAAAAACjLG4EmbMk=
+  </data>
+ </layer>
+ <layer id="7" name="Water" width="50" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztz7EJACAQA0AX+dVcwf07LfzGTixEvIOQNikFAP5Vl7wqRtrsuLzlRO7PLwAAAAAAAACwowPiigMF
+  </data>
+ </layer>
+ <layer id="1" name="Top" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztlE0OgjAQRmcpiOwhAmdQD8BlvIKe32mEKKD9S1EW7yXfhnSmfUyhlf9yTNSnTdQnFjym4DHlpDlrLppbQN3WPPaanSbXHALqtuZhztNoqsCea3ncI/uMHs2Hnq66FLzvWcvzXhQSdjdKWXqUnrVreMTejU6WHp1n7ZoeIe+0l216VLOzuFxKmXqMs/SpvUo6j+JLzD80G5Jb1tni+sbqoX8KGkcqec1o/txVa+bSW/Ye55/Kw+dMMTEztc0rG9YBAAAAAAAAAAAAAAAAwG94ANrlEec=
+  </data>
+ </layer>
+ <layer id="6" name="Collision" width="50" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKgDAMBEA/2P9/R7yJggYbSSgz4KmYdG3j2GqNZnWq+8vRq78c9zrnp6J/dh058vpn3Y3o+39/x1VyzO6lU45In6f1yB4z//tv83Cdm+gMza53sUqOw9ezBAAAAAAAAPLt/k0VDw==
+  </data>
+ </layer>
+</map>

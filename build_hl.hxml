@@ -1,0 +1,8 @@
+-cp src
+-D analyzer-optimize
+-D windowSize=1366x768
+-lib heaps
+-lib hlsdl
+-main Main
+--hl build/main.hl
+--debug
